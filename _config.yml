@@ -1,12 +1,12 @@
-title: John Smith
-description: My Personal Blog
-author: John Smith
+title: GXL Studio
+description: GXL Studio Blog
+author: Hunter Liu
 logo: /hcz-jekyll-blog/static/img/avatar.png
-github: https://github.com/codeasashu
+github: https://github.com/gxlstudio
 about: Freelance developer
 
-baseurl: "https://codeasashu.github.io/hcz-jekyll-blog"
-url: "https://codeasashu.github.io/hcz-jekyll-blog"
+baseurl: "http://blog.gxlstudio.win/"
+url: "http://blog.gxlstudio.win/"
 
 allowsearch: true
 
