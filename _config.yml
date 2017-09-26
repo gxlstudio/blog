@@ -5,8 +5,8 @@ logo: /static/img/avatar.png
 github: https://github.com/gxlstudio
 about: Freelance developer
 
-baseurl: "http://blog.gxlstudio.win/"
-url: "http://blog.gxlstudio.win/"
+baseurl: "http://blog.gxlstudio.win"
+url: "http://blog.gxlstudio.win"
 
 allowsearch: true
 
